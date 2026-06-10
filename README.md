@@ -30,6 +30,7 @@ Edit the files you copied over.  There are ```<domain>``` and ```<command>``` va
   - line 25 (run command, paste output in its place)
   - line 32
 - docker-compose.yml
+  - line 16
   - line 70
   - line 73
 
