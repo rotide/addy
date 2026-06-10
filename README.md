@@ -1,5 +1,7 @@
 # Addy.io
 
+## Official Documentation utilized to start this setup: https://github.com/anonaddy/docker
+
 ### How to use this repo
 Follow all steps and you'll be up and running!
 
