@@ -6,7 +6,7 @@ Follow all steps and you'll be up and running!
 ### Step 1
 You will need to get the following:
 - A public facing server with port 25 open and accessible!
-  - Most ISPs and quite a few VPS providers block this by default.
+  - Note: Most ISPs and quite a few VPS providers block this by default.
 - A domain name where you control the DNS records.
 
 ### Step 2
