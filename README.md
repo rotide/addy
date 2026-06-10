@@ -1,6 +1,5 @@
 # Addy.io
 
----
 Based on Official Documentation: https://github.com/anonaddy/docker
 ---
 
