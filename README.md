@@ -2,6 +2,8 @@
 
 ### Based on Official Documentation: https://github.com/anonaddy/docker
 
+<hr>
+
 ### How to use this repo
 Follow all steps and you'll be up and running!
 
