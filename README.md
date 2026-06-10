@@ -51,3 +51,23 @@ Bring up the container and watch the logs for errors/issues.
 docker compose up -d
 docker compose logs -f
 ```
+
+## Testing
+
+### Step 1
+Attempt to send an email from an external source (gmail, etc) to a random address at the domain you chose.
+Addy should take that email and forward it on to your "protected" email address.
+```
+Example: test.email@<domain>
+```
+
+### Step 2
+Attempt to REPLY to that email and make sure the FROM address is the test email address.
+
+## Troubleshooting
+
+### If you get an error bounceback email mentioning DMARC...
+This means your "protected" email address needs a DMARC entry added to DNS for its domain.
+```
+TXT  _dmarc  v=DMARC1; p=quarantine
+```
