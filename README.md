@@ -1,4 +1,4 @@
-Copy all files and find the <domain> and <command> variables.  Replace them.
+Copy all files and find the domain and command variables.  Replace them.
 
 First Run:
 touch acme.json
