@@ -1,6 +1,6 @@
 # Addy.io
 
-# How to use this repo
+### How to use this repo
 Follow all steps and you'll be up and running!
 
 ### Step 1
