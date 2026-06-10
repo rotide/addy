@@ -5,6 +5,8 @@
 ### How to use this repo
 Follow all steps and you'll be up and running!
 
+## Setup
+
 ### Step 1
 You will need to get the following:
 - A public facing server with port 25 open and accessible!
