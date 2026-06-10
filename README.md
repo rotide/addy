@@ -4,7 +4,6 @@
 Follow all steps and you'll be up and running!
 
 ### Step 1
-Use a public VPS or another server with port 25 open from the outside.  If you can't send email to the server, this will not work.  Most, if not all, ISPs will block incoming port 25 traffic.
 You will need to get the following:
 - A public facing server with port 25 open and accessible!
   - Most ISPs and quite a few VPS providers block this by default.
